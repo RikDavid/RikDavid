@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RikDavid
 - 👀 I’m interested in Datascience and Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Learning acitvities
 - 📫 How to reach me: e-mail me at rbraga.david@gmail.com
 
